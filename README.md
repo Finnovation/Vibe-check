@@ -1,5 +1,7 @@
 # Vibe Check
 
+![Vibe Check: 271 checks to run before you ship anything an AI helped you build](.github/social-preview.png)
+
 **The one checklist to run before you ship anything an AI helped you build.**
 
 By Kthuwu
